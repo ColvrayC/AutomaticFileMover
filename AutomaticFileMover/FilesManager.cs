@@ -26,7 +26,7 @@ namespace AutomaticFileMover
 
         private void bw_DoSleep(object sender, DoWorkEventArgs e)
         {
-                Thread.Sleep(5000);
+                Thread.Sleep(30000);
         }
 
         /// <summary>
